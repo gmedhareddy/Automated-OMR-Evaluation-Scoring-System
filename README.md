@@ -1,6 +1,6 @@
 # Automated OMR Evaluation & Scoring System
 
-## Table of Contents
+## Table of Contents 
 
 - [Overview](#overview)  
 - [Problem Statement](#problem-statement)  
